@@ -1,8 +1,13 @@
-# bash-powerline
+# nokout:bash-powerline
 
-Powerline for Bash in pure Bash script.
+Modified Powerline for Bash in pure Bash script with venv support.
 
 ![bash-powerline](https://raw.github.com/riobard/bash-powerline/master/screenshots/solarized-light.png)
+
+##Fork
+This has been forked from https://github.com/riobard/bash-powerline
+I have only added the venv stuff
+I then use it in my dotfiles repo as a submodule.
 
 ## Features
 
@@ -10,6 +15,7 @@ Powerline for Bash in pure Bash script.
 * Git: show "*" symbol with uncommited modifications.
 * Git: show "↑" symbol and number of commits ahead of remote.
 * Git: show "↓" symbol and number of commits behind remote.
+* Venv: Add venv information when active
 * Platform-dependent prompt symbols.
 * Color-coded prompt symbol according to previous command execution status.
 * Use Bash builtin when possible to reduce delay. Delay sucks!
