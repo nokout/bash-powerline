@@ -7,7 +7,7 @@ Modified Powerline for Bash in pure Bash script with venv support.
 ##Fork
 This has been forked from https://github.com/riobard/bash-powerline
 I have only added the venv stuff
-I then use it in my dotfiles repo as a submodule.
+I then use it in my dotfiles repo as a submodule	.
 
 ## Features
 
